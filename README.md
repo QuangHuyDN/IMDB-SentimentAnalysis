@@ -1,1 +1,1 @@
-Sentiment Analysis models on IMDb dataset
+**Sentiment Analysis models on IMDb dataset**
